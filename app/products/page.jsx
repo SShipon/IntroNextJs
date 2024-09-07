@@ -1,11 +1,11 @@
 
 
-const ProductPage = () => {
+const ProductsPage = () => {
     return (
         <div>
-             <h1>Product pages add</h1>
+             <h1 className="text-3xl text-center">Products pages add</h1>
         </div>
     );
 };
 
-export default ProductPage;
+export default ProductsPage;
